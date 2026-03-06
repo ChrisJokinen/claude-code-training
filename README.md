@@ -7,8 +7,6 @@ It automatically collects CLI information, detects version changes, and generate
 
 ## Repository Structure
 
-```
-
 ```bash
 claude-code-training/
 ├─ README.md
