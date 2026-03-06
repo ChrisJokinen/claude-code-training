@@ -148,5 +148,4 @@ Claude will:
 
 This repository is designed to provide a **self-maintaining, hands-on learning system** for Claude CLI, making it easy for developers to get up to speed and stay current with CLI updates.
 
-````
 
