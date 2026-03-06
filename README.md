@@ -1,10 +1,3 @@
-Absolutely — the **README** should now reflect the new workflow with the bootstrap script and the prompt system. Here's a full updated version tailored to your repository:
-
----
-
-# `README.md`
-
-
 # Claude Code Training Repository
 
 This repository provides a **self-bootstrapping, self-updating developer training system** for the installed Claude CLI.  
