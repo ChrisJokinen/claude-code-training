@@ -150,16 +150,3 @@ This repository is designed to provide a **self-maintaining, hands-on learning s
 
 ````
 
----
-
-This README now matches your **bootstrap-based workflow**, explains **installation**, and tells the user exactly how to use the repo.  
-
-If you want, I can also **add a “one-command run” section** where the user just does:
-
-```bash
-git clone ... && cd ... && ./scripts/start_training.sh
-````
-
-and Claude does everything automatically, including updates.
-
-Do you want me to add that?
